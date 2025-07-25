@@ -1,3 +1,16 @@
+
+
+
+
+
+I have no idea what I'm doing really, just trying to get this chrome extension working... 
+
+
+Original Info by 
+https://github.com/rubenmv/chrome-extension-tabs-queue
+
+
+
 #Tabs limiter with queue#
 
 **Tabs limiter with queue** allows you to limit the number of tabs opened in a Chrome window. New tabs exceeding the limit will be put in a queue, when a tab is closed and there's enough space in the active window, the next URL from the queue loads automatically in a new background tab.
